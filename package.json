@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-responsive-webview",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-responsive-webview",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "Cordova Responsive WebView",
+  "repository": "https://github.com/lottefriends/cordova-plugin-ionic-keyboard.git",
+  "issue": "https://github.com/lotterfriends/cordova-plugin-ionic-keyboard/issues",
+  "keywords": [
+    "cordova",
+    "keyboard",
+    "cordova-android",
+    "responsive-webview"
+  ],
+  "author": "Ionic",
+  "license": "Apache 2.0"
+}
