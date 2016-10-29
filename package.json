@@ -8,8 +8,8 @@
     ]
   },
   "description": "Cordova Responsive WebView",
-  "repository": "https://github.com/lottefriends/cordova-plugin-ionic-keyboard.git",
-  "issue": "https://github.com/lotterfriends/cordova-plugin-ionic-keyboard/issues",
+  "repository": "https://github.com/baidan4855/cordova-plugin-responsive-webview.git",
+  "issue": "https://github.com/baidan4855/cordova-plugin-responsive-webview/issues",
   "keywords": [
     "cordova",
     "keyboard",

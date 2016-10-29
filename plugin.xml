@@ -7,8 +7,8 @@
     <description>Cordova Responsive WebView</description>
     <license>Apache 2.0</license>
     <keywords>cordova, responsive webview</keywords>
-    <repo>https://github.com/lotterfriends/cordova-plugin-ionic-keyboard.git</repo>
-    <issue>https://github.com/lotterfriends/cordova-plugin-ionic-keyboard/issues</issue>
+    <repo>https://github.com/baidan4855/cordova-plugin-responsive-webview.git</repo>
+    <issue>https://github.com/baidan4855/cordova-plugin-responsive-webview/issues</issue>
 
   <!-- android -->
   <platform name="android">
