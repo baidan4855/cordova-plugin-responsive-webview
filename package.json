@@ -16,6 +16,6 @@
     "cordova-android",
     "responsive-webview"
   ],
-  "author": "Ionic",
-  "license": "Apache 2.0"
+  "author": "jackjiang",
+  "license": "MIT"
 }
