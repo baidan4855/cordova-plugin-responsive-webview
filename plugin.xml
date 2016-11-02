@@ -13,13 +13,23 @@
   <!-- android -->
   <platform name="android">
     <config-file target="res/xml/config.xml" parent="/*">
-      <feature name="Keyboard">
+      <feature name="ResponsiveWebView">
         <param name="android-package" value="cn.com.ihealthlabs.cordova.plugins.ResponsiveWebView" />
         <param name="onload" value="true" />
       </feature>
     </config-file>
-
     <source-file src="src/android/ResponsiveWebView.java" target-dir="src/cn/com/ihealthlabs/cordova/plugins" />
+  </platform>
+
+  <!-- ios -->
+  <platform name="ios">
+    <config-file target="config.xml" parent="/*">
+      <feature name="ResponsiveWebView">
+          <param name="ios-package" value="ResponsiveWebView" onload="true" />
+      </feature>
+    </config-file>
+    <header-file src="src/ios/ResponsiveWebView.h" />
+    <source-file src="src/ios/ResponsiveWebView.m" />
   </platform>
 
 </plugin>
